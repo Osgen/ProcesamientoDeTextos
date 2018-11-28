@@ -1,0 +1,34 @@
+Nombre: C:\Users\xboxm\OneDrive\Escritorio\PROG\1.txt Palabras repetidas: 57 Palabras no repetidas: 48
+Nombre: C:\Users\xboxm\OneDrive\Escritorio\PROG\2.txt Palabras repetidas: 103 Palabras no repetidas: 70
+Nombre: C:\Users\xboxm\OneDrive\Escritorio\PROG\3.txt Palabras repetidas: 61 Palabras no repetidas: 46
+
+.: 12
+-: 1
+,: 21
+z: 2
+y: 10
+x: 1
+v: 11
+u: 48
+t: 42
+s: 74
+r: 77
+q: 8
+p: 33
+o: 101
+n: 86
+�: 12
+m: 42
+l: 61
+j: 6
+:: 1
+i: 65
+h: 4
+g: 15
+f: 9
+e: 124
+d: 48
+c: 53
+b: 13
+a: 136
+
